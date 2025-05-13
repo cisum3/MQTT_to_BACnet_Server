@@ -13,3 +13,5 @@ Valid MQTT JSON payload:
   'enthalpy': 50.48, 
   'enthalpy_unit': 'kJ/kg'
  }
+
+Still working on figuring out how to use GIT.
